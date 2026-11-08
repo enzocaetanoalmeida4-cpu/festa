@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 330">
+<rect width="500" height="330" fill="#33314f"/><g fill="#fff"><circle cx="55" cy="45" r="3"/><circle cx="120" cy="90" r="4"/><circle cx="420" cy="45" r="3"/><circle cx="455" cy="160" r="4"/><circle cx="75" cy="240" r="3"/><circle cx="365" cy="270" r="3"/></g>
+<circle cx="250" cy="155" r="85" fill="#8dcfe0"/><path d="M180 145q60-70 140-15q-45 15-55 75q-55 10-85-60" fill="#b9a4e8"/>
+<ellipse cx="250" cy="155" rx="135" ry="38" fill="none" stroke="#ffd66e" stroke-width="9" transform="rotate(-20 250 155)"/>
+<path d="M110 80l8 17 18 3-13 12 3 18-16-9-16 9 3-18-13-12 18-3z" fill="#f58cae"/>
+<path d="M390 220l7 14 16 2-12 11 3 16-14-8-14 8 3-16-12-11 16-2z" fill="#ffd66e"/>
+<text x="250" y="295" text-anchor="middle" font-family="Arial" font-size="23" font-weight="bold" fill="#fff">MISSÃO ESPACIAL</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 330">
+<rect width="500" height="330" fill="#fff1e9"/><path d="M80 220L120 70h260l40 150z" fill="#f58cae"/><path d="M120 70h52l-28 150H80zM224 70h52v150h-52zM328 70h52l40 150h-52z" fill="#fff"/>
+<path d="M100 70l150-48L400 70z" fill="#ffd66e"/><circle cx="250" cy="20" r="15" fill="#b9a4e8"/>
+<rect x="70" y="220" width="360" height="35" rx="8" fill="#8dcfe0"/><path d="M110 255v55m280-55v55" stroke="#9a829d" stroke-width="12"/>
+<g fill="#ffd66e"><path d="M60 105l7 15 17 2-13 11 3 17-14-9-15 9 3-17-13-11 17-2z"/><path d="M440 110l7 15 17 2-13 11 3 17-14-9-15 9 3-17-13-11 17-2z"/></g>
+<text x="250" y="190" text-anchor="middle" font-family="Arial" font-size="37" font-weight="bold" fill="#fff">CIRCO!</text>
+</svg>

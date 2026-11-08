@@ -1,0 +1,20 @@
+FESTA FELIZ — SITE DE FESTAS INFANTIS
+
+Arquivos:
+- index.html: estrutura do site
+- style.css: estilos e responsividade
+- script.js: menu e formulário de orçamento
+- imagens/: ilustrações SVG locais usadas no site
+
+COMO EXECUTAR
+1. Extraia a pasta festa_feliz_site.zip.
+2. Abra a pasta no Visual Studio Code.
+3. Abra o arquivo index.html no navegador (ou use a extensão Live Server).
+
+IMPORTANTE — WHATSAPP
+No arquivo script.js, procure:
+const numeroDaEmpresa = "5511999999999";
+Troque pelo número comercial correto, com código do país + DDD + número, somente números.
+Exemplo de formato: 55 + DDD + telefone.
+
+As imagens da pasta são ilustrações SVG originais e leves, criadas para este modelo.

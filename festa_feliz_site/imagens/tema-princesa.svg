@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 330">
+<rect width="500" height="330" fill="#f5efff"/><circle cx="250" cy="145" r="112" fill="#fff" opacity=".55"/>
+<path d="M155 270l95-205 95 205z" fill="#b9a4e8"/><path d="M190 270l60-135 60 135z" fill="#f58cae"/>
+<path d="M210 70l12-38 28 25 28-25 12 38" fill="#ffd66e" stroke="#d5a94b" stroke-width="5"/>
+<path d="M205 105q45-45 90 0" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+<g fill="#ffd66e"><path d="M90 90l7 15 17 2-13 11 3 17-14-9-15 9 3-17-13-11 17-2z"/><path d="M405 80l7 15 17 2-13 11 3 17-14-9-15 9 3-17-13-11 17-2z"/></g>
+<text x="250" y="305" text-anchor="middle" font-family="Arial" font-size="23" font-weight="bold" fill="#78669d">DIA DE ENCANTO</text>
+</svg>
